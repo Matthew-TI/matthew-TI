@@ -1,6 +1,6 @@
 ### Olá! Eu sou Mateus Santos!
 
-- 💻 Front End.
+- 💻 Full Stack.
 - 📓 Estudante de desenvolvimento front end HTML | CSS | JAVASCRIPT
 
 <div>
