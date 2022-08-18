@@ -1,7 +1,7 @@
 ### Olá! Eu sou Mateus Santos!
 
 - 💻 Full Stack.
-- 📓 Estudante de desenvolvimento front end HTML | CSS | JAVASCRIPT
+- 📓 Estudante de desenvolvimento Web Fullstack 
 
 <div>
   <a href="https://github.com/Matthew-TI">
